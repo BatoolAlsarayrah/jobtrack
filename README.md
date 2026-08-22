@@ -4,8 +4,6 @@ JobTrack is a job application tracker. It's a place to keep track of the jobs I'
 
 **Live at [jobtrack-swart.vercel.app](https://jobtrack-swart.vercel.app/)**
 
-You can sign up for your own account, or log in with `batool@example.com` / `password123` to see the sample data.
-
 ## Features
 
 - Sign up and log in. Each account only ever sees its own applications
