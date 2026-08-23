@@ -11,7 +11,7 @@ JobTrack is a job application tracker. It's a place to keep track of the jobs I'
 - Search by company or job title, and filter by status
 - Pagination once the list gets long
 - A dashboard with totals per status, a status breakdown chart, and applications per month
-- Interviews are linked to applications and show on the detail page. They come from the seed data; there's no form for adding one yet
+- Interviews are linked to applications and show on the detail page.
 
 ## Screenshots
 
@@ -42,7 +42,7 @@ JobTrack is a job application tracker. It's a place to keep track of the jobs I'
 | ---------- | ------------------------------------------- |
 | Framework  | Next.js 16, App Router                      |
 | UI         | React 19, Tailwind CSS 4                    |
-| Language   | JavaScript, no TypeScript                   |
+| Language   | JavaScript                                  |
 | Database   | Turso, hosted SQLite                        |
 | ORM        | Prisma 6, through the libSQL driver adapter |
 | Auth       | Auth.js (NextAuth v5), credentials provider |
